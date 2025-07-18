@@ -8,11 +8,11 @@ This API aims to create a Personal Budget app using envelopes to store different
 
 
 
-This API takes \*\*HTTP Requst\*\* from the URL and sends responses in JSON format.
+This API takes **HTTP Request** from the URL and sends responses in JSON format.
 
 
 
-- GET methods for all envelopes and specific envelopes, name of the envelope to be specified in the url as a parameter
+- GET methods for all envelopes and specific envelopes, name of the envelope to be specified in the URL as a parameter.
 
 - PUT method to withdraw from one envelope, using the envelope name and amount as URL parameters.
 
